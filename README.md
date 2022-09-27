@@ -1,2 +1,2 @@
 #testRepoRS
-https://katezxcvb.github.io/testRepoRS/cv
+https://katezxcvb.github.io/testRepoRS/CV
